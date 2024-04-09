@@ -1,4 +1,5 @@
 def upper_str(string: str) -> str:
+    """Upper every letter"""
     return string.upper()
 
 
